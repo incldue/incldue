@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="t">
-  <title id="t">Hey, I'm Cyris. Full-stack developer in New Zealand, building tools for AI agents at Sudolabs.</title>
+  <title id="t">Hey,I'm incldue. not-so-rookie CTFer in Xi'an,Shaanxi,China, building tools and applications for CTF and personal purposes.</title>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
@@ -61,20 +61,20 @@
   <g class="rise">
     <rect x="48" y="40" width="226" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".1"/>
     <circle class="dot" cx="66" cy="56" r="4" fill="#10b981"/>
-    <text x="80" y="61" class="mono" font-size="13" fill="#d4d4d8">open to projects · NZ</text>
+    <text x="80" y="61" class="mono" font-size="13" fill="#d4d4d8">open to projects · CH</text>
   </g>
 
   <g class="rise r2">
-    <text x="46" y="158" class="sans" font-size="64" font-weight="700" letter-spacing="-2" fill="url(#name)">Hey, I'm Cyris.</text>
+    <text x="46" y="158" class="sans" font-size="64" font-weight="700" letter-spacing="-2" fill="url(#name)">Hey, I'm incldue.</text>
   </g>
 
   <g class="rise r3 mono" font-size="20">
     <text x="48" y="222" fill="#71717a">~</text>
     <text x="66" y="222" fill="#34d399">❯</text>
     <g fill="#f4f4f5">
-      <text class="line" x="92" y="222">building tools for AI agents<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
-      <text class="line l2" x="92" y="222">shipping web apps at sudolabs.nz<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
-      <text class="line l3" x="92" y="222">home labs, automation &amp; 3D printing<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
+      <text class="line" x="92" y="222">building tools and applications for CTF and personal purposes<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
+      <text class="line l2" x="92" y="222">improving personal growth via building tools<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
+      <text class="line l3" x="92" y="222">CTFlabs, own studio &amp; CTF tools<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
     </g>
   </g>
 
@@ -84,9 +84,9 @@
     <text x="890" y="82" text-anchor="end" class="mono" font-size="11" fill="#71717a">~/projects</text>
     <line x1="640" y1="96" x2="912" y2="96" stroke="#ffffff" stroke-opacity=".08"/>
     <g class="mono" font-size="14" fill="#d4d4d8">
-      <circle cx="664" cy="121" r="4" fill="#34d399"/><text x="680" y="126">pilot-light</text>
-      <circle cx="664" cy="153" r="4" fill="#34d399"/><text x="680" y="158">agent-notify</text>
-      <circle cx="664" cy="185" r="4" fill="#34d399"/><text x="680" y="190">block-clankers</text>
+      <circle cx="664" cy="121" r="4" fill="#34d399"/><text x="680" y="126">third-year student</text>
+      <circle cx="664" cy="153" r="4" fill="#34d399"/><text x="680" y="158">not-so-rookie CTFer</text>
+      <circle cx="664" cy="185" r="4" fill="#34d399"/><text x="680" y="190">indie developer</text>
     </g>
   </g></g>
 
